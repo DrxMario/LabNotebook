@@ -1,0 +1,84 @@
+body {
+	background : white;
+}
+
+DIV.searchbar {
+	  font-family	: sans-serif;
+	  align		: center;
+	  margin-left	: auto;
+	  margin-right	: auto;
+	  border	: solid grey; 
+	  background	: lavender;
+	  width	   	: 90%;
+	  text-align 	: left;
+	  padding       : 10px;
+	   -moz-border-radius: 5px;
+	   -webkit-border-radius: 5px;
+}
+
+DIV.header {
+	   width	: 90%;
+	   margin-left	: auto;
+	   margin-right	: auto;
+	   font-family	: sans-serif;
+	   background	: lavender;
+	   border	: solid black;
+	   -moz-border-radius: 5px;
+	   -webkit-border-radius: 5px;
+}
+
+.header A:link {
+    text-decoration : none;
+    color           : black;
+    background      : none;
+    border:         : 0px;
+}
+
+.header A:visited {
+    text-decoration : none;
+    color           : black;
+    background      : none;
+    border          : 0px;
+}
+
+.header A:active {
+    text-decoration : none;
+    color           : black;
+    background      : none;
+    border          : 0px;
+}
+
+A:link {
+	color			: DarkSlateBlue;
+}
+
+A:visited {
+	color			: DarkSlateBlue;
+}
+
+DIV.linksHolder {
+	  width		: 90%;
+	  margin-left	: auto;
+	  margin-right	: auto;
+	  font-family	: sans-serif;
+	  background   	: lavender;
+	  border	: solid black;
+	  text-align 	: justified;
+	  vertical-align: top;
+	   -moz-border-radius: 5px;
+	   -webkit-border-radius: 5px;
+}
+
+DIV.entry {
+	  font-family	: sans-serif;
+	  align		: center;
+	  margin-left	: auto;
+	  margin-right	: auto;
+	  border	: solid grey; 
+	  background	: lavender;
+	  width	   	: 90%;
+	  text-align 	: left;
+	  padding       : 10px;
+	   -moz-border-radius: 5px;
+	   -webkit-border-radius: 5px;
+}
