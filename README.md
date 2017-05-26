@@ -17,4 +17,6 @@ $auth_username = $_SERVER["REMOTE_USER"];
 if (($auth_username != "user1")&&($auth_username != "user2")){ /* do something restricted here */ }
 ```
 
-This website is packaged with and relies on the [PHP Excel Spreadsheet reader](http://pear.php.net/package/Spreadsheet_Excel_Reader) (distributed under the PHP license) and the [CKEditor](http://ckeditor.com/) (distributed under the GPL license).
+This website is packaged with and relies on the [PHP Excel Spreadsheet reader](http://pear.php.net/package/Spreadsheet_Excel_Reader) (distributed under the PHP license).
+
+To use WYSIWYG entry editing, download and install the [CKEditor](http://ckeditor.com/) (distributed under the GPL license) in the root directory for your site, within a directory named 'ckeditor'.
